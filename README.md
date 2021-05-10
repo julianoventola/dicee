@@ -3,7 +3,7 @@
 <h1 align="center">
   <img width="427" src= "./Diceelogo.JPG">
   <p>🎲A simple Flutter App to roll dice🎲</p>
-  <img width="427" src= "./Diceescreen.JPG">
+  <img width="427" src= "./Diceegif.gif">
 </h1>
 
 # Features
