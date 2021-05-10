@@ -9,6 +9,7 @@
 # Features
 
 - Single page to roll(click) dice and sum total result
+- Uses images from assets
 
 ## Getting Started
 
